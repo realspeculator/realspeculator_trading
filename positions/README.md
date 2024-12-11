@@ -8,7 +8,7 @@ Alpaca Trading - https://alpaca.markets/learn/start-paper-trading/
 
 Interactive Brokers - https://www.interactivebrokers.com/en/software/omnibrokers/topics/papertrader.htm
 
-Thinkorswim - https://tickertape.tdameritrade.com/tools/papermoney-stock-market-simulator-16834
+Thinkorswim - https://www.schwab.com/trading/thinkorswim/paper-trading
 
 ## Disclaimer
 
