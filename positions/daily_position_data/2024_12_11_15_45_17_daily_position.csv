@@ -1,0 +1,2 @@
+ticker,qty,avg_entry_price,current_price,cost_basis,market_value,unrealized_pl,unrealized_plpc,timestamp
+IOT,1200,46.01,46.3825,55212,55659,447,0.0080960660725929,2024_12_11_15_45_17
