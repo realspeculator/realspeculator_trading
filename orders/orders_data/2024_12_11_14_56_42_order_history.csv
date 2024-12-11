@@ -1,0 +1,2 @@
+ticker,side,filled_qty,filled_avg_price,limit_price,order_type,status,stop_price,created_at,filled_at,client_order_id
+IOT,buy,1200,46.01,,market,filled,,2024-12-11 19:56:06.882973+00:00,2024-12-11 19:56:07.475631+00:00,ccc927ce-a368-4d8e-8f44-020721c5cca4
