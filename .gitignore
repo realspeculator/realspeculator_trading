@@ -3,6 +3,8 @@ alpaca.ini
 # intellij
 .idea
 
+.ipynb_checkpoints
+
 # General
 .DS_Store
 .AppleDouble
